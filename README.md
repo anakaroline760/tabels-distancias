@@ -26,6 +26,24 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 
 ## Tecnologias
 
+* HTML5
+* CSS3
+* README
+* Git
+* Github
+
 ## Referencias
 
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+
+
 ## Autor(a)
+
+Projeto desenvolvido pelo grupo:
+
+* Ana Karoline
+* Maria Clara
+* Geovanna
+* Yasmim F
+* Yasmin N
+

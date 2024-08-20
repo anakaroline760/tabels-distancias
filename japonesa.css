@@ -46,6 +46,17 @@ table, tr, td{
 .azul{
     background-color: blue;
 }
+.nt{
+    background-color: yellow;
+}
+
+.ps{
+    background-color: yellow;
+}
+
+.pa{
+    background-color: yellow;
+}
  
 #tabela{
     width: 450px;
